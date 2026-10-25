@@ -26,3 +26,4 @@ breve, exacta y con fuentes, para que un editor humano lo apruebe antes de publi
 (Este bloque lo escribe el equipo. Ejemplos: priorizar la brecha por sexo; incluir siempre la tasa de
 informalidad; cerrar con una frase sobre qué no permite saber la ENE; usar un titular informativo sin verbo
 en pasado. Una regla, un efecto medible.)
+El titular siempre dice cuántos puntos porcentuales subió o bajó la tasa.
